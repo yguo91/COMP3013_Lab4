@@ -40,8 +40,12 @@ cd assignment-tracker
 npm install
 npm run dev
 
+---
+
 Then visit:
 http://localhost:5173
+
+```bash
 
 ##Folder Structure
 src/
