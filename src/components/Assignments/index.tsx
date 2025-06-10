@@ -22,7 +22,9 @@ export function Assignments() {
 
       <div className={styles.list}>
         {assignments.map((a) => (
-          <Assignment key={a.id} id={a.id} title={a.title} completed={a.completed} />
+          <Assignment 
+          key={a.id} id={a.id} title={a.title} completed={a.completed} dueDate={a.dueDate} 
+          />
         ))}
       </div>
     </section>

@@ -47,3 +47,25 @@ p.textCompleted {
   border: none;
   color: #808080;
 }
+
+.dueTomorrow {
+  background-color: red;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 999px;
+}
+
+.dueLater {
+  background-color: #555;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 999px;
+}
+
+.dueOverdue {
+  background-color: #e03131;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-weight: bold;
+}
