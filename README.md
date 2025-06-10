@@ -34,15 +34,15 @@ A lightweight, responsive assignment tracker built with **React + TypeScript**, 
 
 ## 📦 Installation
 
-npm install
-npm run dev
+`npm install
+npm run dev`
 
 Then visit:
 http://localhost:5173
 
 ## 📂 Folder Structure
 
-src/
+`src/
 ├── components/
 │   ├── Header/
 │   ├── Assignments/
@@ -51,4 +51,4 @@ src/
 │   └── stringHelpers.ts
 ├── styles/
 ├── store.ts
-└── App.tsx
+└── App.tsx`
