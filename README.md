@@ -34,8 +34,10 @@ A lightweight, responsive assignment tracker built with **React + TypeScript**, 
 
 ## 📦 Installation
 
-`npm install
-npm run dev`
+```
+npm install
+npm run dev
+```
 
 Then visit:
 http://localhost:5173
