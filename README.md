@@ -34,20 +34,14 @@ A lightweight, responsive assignment tracker built with **React + TypeScript**, 
 
 ## 📦 Installation
 
-```bash
-git clone https://github.com/yourusername/assignment-tracker.git
-cd assignment-tracker
 npm install
 npm run dev
-
----
 
 Then visit:
 http://localhost:5173
 
-```bash
+## 📂 Folder Structure
 
-##Folder Structure
 src/
 ├── components/
 │   ├── Header/
@@ -58,6 +52,3 @@ src/
 ├── styles/
 ├── store.ts
 └── App.tsx
-
-##📄 License
-This project is open-source under the MIT License.
