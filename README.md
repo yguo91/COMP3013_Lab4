@@ -14,7 +14,7 @@ A lightweight, responsive assignment tracker built with **React + TypeScript**, 
 
 ## 🖼️ Preview
 
-![App Screenshot](./screenshot.png)
+![Image](https://github.com/user-attachments/assets/fbb142ac-7406-47be-8052-b0f8160def01)
 
 ---
 
