@@ -42,7 +42,8 @@ http://localhost:5173
 
 ## 📂 Folder Structure
 
-`src/
+```
+src/
 ├── components/
 │   ├── Header/
 │   ├── Assignments/
@@ -51,4 +52,5 @@ http://localhost:5173
 │   └── stringHelpers.ts
 ├── styles/
 ├── store.ts
-└── App.tsx`
+└── App.tsx
+```
