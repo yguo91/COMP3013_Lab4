@@ -24,7 +24,7 @@ export function Assignment({id, title, completed, dueDate}: AssignmentProps) {
       </button>
 
       <p className={completed ? styles.textCompleted : ""}>{title} </p>
-
+      {/* Display due date if it exists */}
       {dueDate && (
         <p>
           Due:{" "}
